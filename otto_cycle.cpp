@@ -57,7 +57,7 @@ int main()
     	 << " press_d = " << press_d << " temp_d = " << temp_d << endl
     	 << " work_cd = " << work_cd << " work_ab = " << work_ab << endl
          << " heat_input = " << heat_input << " heat_output = " << heat_output
-		 << " total_work = " << total_work << endl
+	 << " total_work = " << total_work << endl
     	 << " eff = " << eff << " eff_temp = " << eff_temp << endl << endl;
     return 0;
 }
